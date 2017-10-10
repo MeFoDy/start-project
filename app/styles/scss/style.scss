@@ -1,0 +1,9 @@
+@import './imports/headers';
+
+body {
+    min-height: 100vh;
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
